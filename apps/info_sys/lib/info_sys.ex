@@ -3,6 +3,7 @@ defmodule InfoSys do
   Documentation for `InfoSys`.
   """
   @backends [InfoSys.Wolfram]
+  alias InfoSys.Cache
 
   defmodule Result do
     defstruct score: 0, text: nil, backend: nil
