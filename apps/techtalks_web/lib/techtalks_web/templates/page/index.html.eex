@@ -1,4 +1,4 @@
 <section class="phx-hero">
 <h1><%= gettext "Welcome to %{name}!", name: "Techtalks" %></h1>
-<p>Technology tutorials and conference talks</p>
+<p>A place to share technology tutorials and conference talks</p>
 </section>

@@ -1,6 +1,6 @@
 /* This file is for your main application css. */
-@import './phoenix.css';
-@import './video.css';
+@import url("phoenix.css");
+@import url("video.css");
 
 /* Alerts and form errors */
 .alert {
